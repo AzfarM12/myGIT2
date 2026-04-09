@@ -3,7 +3,7 @@
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 
-operation = input("Choose operation (+, -, *, /): ")
+operation = input("Choose operation (+, -, *): ")
 
 if operation == "+":
     print("Result:", num1 + num2)
